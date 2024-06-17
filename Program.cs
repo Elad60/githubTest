@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test commit");
-
-
+            Console.WriteLine("Test second branch");
 
         }
     }
